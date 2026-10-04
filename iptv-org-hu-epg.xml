@@ -774,6 +774,242 @@
   <display-name lang="hu">m5</display-name>
   <url>http://www.tvmustra.hu</url>
  </channel>
+ <channel id="ApostolTV.hu@SD">
+  <display-name lang="hu">Apostol TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="ATV.hu@SD">
+  <display-name lang="hu">ATV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="ATVSpirit.hu@SD">
+  <display-name lang="hu">ATV SPIRIT</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="BalatonTV.hu@SD">
+  <display-name lang="hu">Balaton TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="DikhTV.hu@SD">
+  <display-name lang="hu">Dikh TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="DisneyChannel.hu@SD">
+  <display-name lang="hu">Disney Channel</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Duna.hu@SD">
+  <display-name lang="hu">Duna TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="DunaWorld.hu@SD">
+  <display-name lang="hu">Duna World</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Film4.hu@SD">
+  <display-name lang="hu">Film4</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="FilmCafe.hu@Hungary">
+  <display-name lang="hu">Film Café</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="FilmPlus.hu@SD">
+  <display-name lang="hu">Film+</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Galaxy4.hu@SD">
+  <display-name lang="hu">Galaxy4</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Hatoscsatorna.hu@SD">
+  <display-name lang="hu">Hatos csatorna</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="History.hu@SD">
+  <display-name lang="hu">History Channel</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="IzauraTV.hu@SD">
+  <display-name lang="hu">Izaura TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="JockyTV.hu@SD">
+  <display-name lang="hu">Jocky TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Kolyokklub.hu@SD">
+  <display-name lang="hu">Kölyökklub</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="LifeTV.hu@SD">
+  <display-name lang="hu">LifeTv</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="M1.hu@HD">
+  <display-name lang="hu">m1 HD</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="M2.hu@SD">
+  <display-name lang="hu">m2 HD</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="M4Sport.hu@SD">
+  <display-name lang="hu">m4</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="M5.hu@SD">
+  <display-name lang="hu">m5</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="MagyarMoziTV.hu@SD">
+  <display-name lang="hu">Magyar Mozi TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Minimax.hu@SD">
+  <display-name lang="hu">Minimax</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="MoziPlus.hu@SD">
+  <display-name lang="hu">Mozi+</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Moziklub.hu@SD">
+  <display-name lang="hu">Moziklub</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Moziverzum.hu@SD">
+  <display-name lang="hu">Moziverzum</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="MuzsikaTV.hu@SD">
+  <display-name lang="hu">Muzsika TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="NickJr.hu@SD">
+  <display-name lang="hu">Nick Jr.</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Nickelodeon.hu@SD">
+  <display-name lang="hu">Nickelodeon</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Nicktoons.hu@SD">
+  <display-name lang="hu">Nicktoons</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="OzoneTV.hu@SD">
+  <display-name lang="hu">OzoneTv</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Prime.hu@SD">
+  <display-name lang="hu">Prime</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="RTL.hu@SD">
+  <display-name lang="hu">RTL</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="RTLGold.hu@SD">
+  <display-name lang="hu">RTL GOLD</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="RTLHarom.hu@SD">
+  <display-name lang="hu">RTL HÁROM</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="RTLKetto.hu@SD">
+  <display-name lang="hu">RTL KETTŐ</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="RTLOtthon.hu@SD">
+  <display-name lang="hu">RTL OTTHON</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="SlagerTV.hu@SD">
+  <display-name lang="hu">Sláger TV</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="SorozatPlus.hu@SD">
+  <display-name lang="hu">Sorozat+</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Sorozatklub.hu@SD">
+  <display-name lang="hu">SorozatKlub</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Spektrum.hu@SD">
+  <display-name lang="hu">Spektrum</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="SpektrumHome.hu@SD">
+  <display-name lang="hu">Spektrum Home</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Sport1.hu@SD">
+  <display-name lang="hu">Sport1</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Sport2.hu@SD">
+  <display-name lang="hu">Sport2</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Story4.hu@SD">
+  <display-name lang="hu">Story4</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="SuperTV2.hu@SD">
+  <display-name lang="hu">Super TV2</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TelePaks.hu@SD">
+  <display-name lang="hu">Telepaks</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TV2.hu@SD">
+  <display-name lang="hu">TV2</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TV2Comedy.hu@SD">
+  <display-name lang="hu">TV2 Comedy</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TV2Kids.hu@SD">
+  <display-name lang="hu">TV2 Kids</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TV2Sef.hu@SD">
+  <display-name lang="hu">TV2 Séf</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TV4.hu@SD">
+  <display-name lang="hu">TV4</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Viasat2.hu@SD">
+  <display-name lang="hu">Viasat 2</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Viasat3.hu@SD">
+  <display-name lang="hu">Viasat 3</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Viasat6.hu@SD">
+  <display-name lang="hu">Viasat 6</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="Zenebutik.hu@SD">
+  <display-name lang="hu">Zenebutik</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="TVPaprika.hu@SD">
+  <display-name lang="hu">TV Paprika</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
+ <channel id="JimJam.hu@SD">
+  <display-name lang="hu">JimJam</display-name>
+  <url>http://www.tvmustra.hu</url>
+ </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="360TuneBox.hu">
   <title lang="hu">Nite Sides</title>
   <desc lang="hu">Mix of regular and restricted videos (playlist+ taboo vids).</desc>
@@ -223732,10 +223968,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="ApostolTV.hu@SD">
-  <display-name lang="hu">Apostol TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003000000 +0200" stop="20261003000400 +0200" channel="ApostolTV.hu@SD">
   <title lang="hu">Apostol TV Himnusz</title>
   <desc lang="hu">Az Apostol TV himnusza, In nomine Jesu - Marco Frisina.</desc>
@@ -224462,10 +224694,6 @@
    <value>1</value>
   </star-rating>
  </programme>
- <channel id="ATV.hu@SD">
-  <display-name lang="hu">ATV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003045500 +0200" stop="20261003060000 +0200" channel="ATV.hu@SD">
   <title lang="hu">Egyenes beszéd</title>
   <desc lang="hu">Amit a nap híreiről tudni kell.Ami fontos, az a hír, és ami a hír hátterében áll. Mindenkit megkeresünk, mindenkit megkérdezünk és egyenes beszédet várunk.Műsorvezetők: Szöllősi Györgyi és Rónai Egon.</desc>
@@ -225304,10 +225532,6 @@
    <value>6</value>
   </star-rating>
  </programme>
- <channel id="ATVSpirit.hu@SD">
-  <display-name lang="hu">ATV SPIRIT</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003043000 +0200" stop="20261003050000 +0200" channel="ATVSpirit.hu@SD">
   <title lang="hu">Start plusz</title>
   <desc lang="hu">(Reggeli információs magazin, 2026.).</desc>
@@ -226083,14 +226307,6 @@
    <value>43</value>
   </star-rating>
  </programme>
- <channel id="BalatonTV.hu@SD">
-  <display-name lang="hu">Balaton TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
- <channel id="DikhTV.hu@SD">
-  <display-name lang="hu">Dikh TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003010000 +0200" stop="20261003020000 +0200" channel="DikhTV.hu@SD">
   <title lang="hu">Zenei Válogató</title>
   <desc lang="hu">(klipműsor).</desc>
@@ -227270,10 +227486,6 @@
    <value>31</value>
   </star-rating>
  </programme>
- <channel id="DisneyChannel.hu@SD">
-  <display-name lang="hu">Disney Channel</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003063000 +0200" channel="DisneyChannel.hu@SD">
   <title lang="hu">Mickey egér játszótere+</title>
   <title lang="en">Mickey Mouse Clubhouse+</title>
@@ -229731,10 +229943,6 @@
    <value>13</value>
   </star-rating>
  </programme>
- <channel id="Duna.hu@SD">
-  <display-name lang="hu">Duna TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003050000 +0200" stop="20261003055500 +0200" channel="Duna.hu@SD">
   <title lang="hu">MMA portrék</title>
   <sub-title lang="hu">Zsura - Portréfilm Zsuráfszky Zoltán koreográfusról</sub-title>
@@ -232223,10 +232431,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="DunaWorld.hu@SD">
-  <display-name lang="hu">Duna World</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003053500 +0200" stop="20261003060000 +0200" channel="DunaWorld.hu@SD">
   <title lang="hu">Hetedhét kaland - hétvége</title>
   <desc lang="hu">Oktatóműsor óvodások és kisiskolások számára, minden hétvégén a Hetedhét kaland legjobb tartalmaiból válogatva, ahol a saját nyelvükön betekintést nyerhetnek többek között a természet, tudomány, kultúra és a mindennapok világába.</desc>
@@ -234431,10 +234635,6 @@
    <value>4</value>
   </star-rating>
  </programme>
- <channel id="Film4.hu@SD">
-  <display-name lang="hu">Film4</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003070500 +0200" stop="20261003090000 +0200" channel="Film4.hu@SD">
   <title lang="hu">Nyár Floridában</title>
   <title lang="en">Ein Sommer in Florida</title>
@@ -235118,10 +235318,6 @@
    <value>17</value>
   </star-rating>
  </programme>
- <channel id="FilmCafe.hu@Hungary">
-  <display-name lang="hu">Film Café</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003061000 +0200" channel="FilmCafe.hu@Hungary">
   <title lang="hu">Zoom In</title>
   <desc lang="hu">(1. évad/197, 2024.).</desc>
@@ -235928,10 +236124,6 @@
    <value>12</value>
   </star-rating>
  </programme>
- <channel id="FilmPlus.hu@SD">
-  <display-name lang="hu">Film+</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003061500 +0200" stop="20261003081500 +0200" channel="FilmPlus.hu@SD">
   <title lang="hu">Ovizsaru 2.</title>
   <title lang="en">Kindergarten Cop 2</title>
@@ -236764,10 +236956,6 @@
    <value>16</value>
   </star-rating>
  </programme>
- <channel id="Galaxy4.hu@SD">
-  <display-name lang="hu">Galaxy4</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003063000 +0200" stop="20261003083000 +0200" channel="Galaxy4.hu@SD">
   <title lang="hu">Vera - A megszállott nyomozó</title>
   <title lang="en">Vera</title>
@@ -237668,10 +237856,6 @@
    <value>7</value>
   </star-rating>
  </programme>
- <channel id="Hatoscsatorna.hu@SD">
-  <display-name lang="hu">Hatos csatorna</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003000000 +0200" stop="20261003003000 +0200" channel="Hatoscsatorna.hu@SD">
   <title lang="hu">Sztárportré</title>
   <desc lang="hu">A műsorban Molnár Szabolcs mindenkit érintő témákról beszélget ismert emberekkel. A válogatásra jellemző az igényesség, vagyis valóban értékes gondolatokat osztanak meg az arra érdemes közszereplők.\n.</desc>
@@ -238512,10 +238696,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="History.hu@SD">
-  <display-name lang="hu">History Channel</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003063000 +0200" channel="History.hu@SD">
   <title lang="hu">Aukcióvadászok</title>
   <title lang="en">Auction Hunters</title>
@@ -239887,10 +240067,6 @@
    <value>2</value>
   </star-rating>
  </programme>
- <channel id="IzauraTV.hu@SD">
-  <display-name lang="hu">Izaura TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003064000 +0200" stop="20261003082500 +0200" channel="IzauraTV.hu@SD">
   <title lang="hu">Szerelem a szőlőskertben</title>
   <title lang="en">Romance at the Vineyard</title>
@@ -241110,10 +241286,6 @@
    <value>1</value>
   </star-rating>
  </programme>
- <channel id="JockyTV.hu@SD">
-  <display-name lang="hu">Jocky TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003061000 +0200" stop="20261003071000 +0200" channel="JockyTV.hu@SD">
   <title lang="hu">MacGyver</title>
   <title lang="en">MacGyver V.</title>
@@ -243021,10 +243193,6 @@
    <value>15</value>
   </rating>
  </programme>
- <channel id="Kolyokklub.hu@SD">
-  <display-name lang="hu">Kölyökklub</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003050000 +0200" stop="20261003053000 +0200" channel="Kolyokklub.hu@SD">
   <title lang="hu">Trükkös Tom</title>
   <title lang="en">Tree Fu Tom</title>
@@ -246383,10 +246551,6 @@
    <value>17</value>
   </star-rating>
  </programme>
- <channel id="LifeTV.hu@SD">
-  <display-name lang="hu">LifeTv</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003080000 +0200" channel="LifeTV.hu@SD">
   <title lang="hu">Összezárva Hajdú Péterrel</title>
   <sub-title lang="hu">Kabát Péter</sub-title>
@@ -247407,10 +247571,6 @@
    <value>8</value>
   </star-rating>
  </programme>
- <channel id="M1.hu@HD">
-  <display-name lang="hu">m1 HD</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003062500 +0200" channel="M1.hu@HD">
   <title lang="hu">Hagyaték</title>
  </programme>
@@ -249248,10 +249408,6 @@
    <value>2</value>
   </star-rating>
  </programme>
- <channel id="M2.hu@SD">
-  <display-name lang="hu">m2 HD</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003061000 +0200" channel="M2.hu@SD">
   <title lang="hu">Daisy és Ollie</title>
   <sub-title lang="hu">Hogy kezdjek el gyűjteni valamit?</sub-title>
@@ -254592,10 +254748,6 @@
    <value>5</value>
   </star-rating>
  </programme>
- <channel id="M4Sport.hu@SD">
-  <display-name lang="hu">m4</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003062500 +0200" stop="20261003073500 +0200" channel="M4Sport.hu@SD">
   <title lang="hu">Forma-1 - 3. szabadedzés</title>
  </programme>
@@ -255034,10 +255186,6 @@
   <desc lang="hu">(40' - ism.).</desc>
   <country lang="hu">Magyarorsz\u00e1g</country>
  </programme>
- <channel id="M5.hu@SD">
-  <display-name lang="hu">m5</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003051500 +0200" stop="20261003060000 +0200" channel="M5.hu@SD">
   <title lang="hu">Lyukasóra - Mészöly Dezső műsora</title>
   <desc lang="hu">Mészöly Dezső a Duna Televízió stúdiójába hívja össze irodalomrajongó barátait, hogy játsszanak, és megörvendeztessék egymást választott kedvenc idézeteikkel. A játszótársak: Gyurkovics Tibor, Lator László, Ráckevei Anna, Kubik Anna, Faragó Laura és Bökönyi laura.</desc>
@@ -256564,10 +256712,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="MagyarMoziTV.hu@SD">
-  <display-name lang="hu">Magyar Mozi TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003063500 +0200" channel="MagyarMoziTV.hu@SD">
   <title lang="hu">Egy a természettel</title>
   <sub-title lang="hu">Az ember a vízparton</sub-title>
@@ -257620,10 +257764,6 @@
    <value>1</value>
   </star-rating>
  </programme>
- <channel id="Minimax.hu@SD">
-  <display-name lang="hu">Minimax</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003061000 +0200" channel="Minimax.hu@SD">
   <title lang="hu">Zoom, a fehér delfin</title>
   <title lang="en">Zoom The White Dolphin</title>
@@ -260795,10 +260935,6 @@
    <value>6</value>
   </rating>
  </programme>
- <channel id="MoziPlus.hu@SD">
-  <display-name lang="hu">Mozi+</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003065000 +0200" stop="20261003084000 +0200" channel="MoziPlus.hu@SD">
   <title lang="hu">Doc West: A nagy játszma</title>
   <title lang="en">Doc West's Challenge</title>
@@ -261575,10 +261711,6 @@
    <value>24</value>
   </star-rating>
  </programme>
- <channel id="Moziklub.hu@SD">
-  <display-name lang="hu">Moziklub</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003052500 +0200" stop="20261003055500 +0200" channel="Moziklub.hu@SD">
   <title lang="hu">Pasik</title>
   <title lang="en">PASIK (CLT)</title>
@@ -262432,10 +262564,6 @@
    <value>6</value>
   </star-rating>
  </programme>
- <channel id="Moziverzum.hu@SD">
-  <display-name lang="hu">Moziverzum</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003062500 +0200" stop="20261003082500 +0200" channel="Moziverzum.hu@SD">
   <title lang="hu">A csajom apja ideges</title>
   <title lang="en">Guess Who</title>
@@ -263259,10 +263387,6 @@
    <value>14</value>
   </star-rating>
  </programme>
- <channel id="MuzsikaTV.hu@SD">
-  <display-name lang="hu">Muzsika TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003061500 +0200" channel="MuzsikaTV.hu@SD">
   <title lang="hu">Mi a vágyad, More?</title>
   <title lang="en">MI A VÁGYAD, MORE? (CLT)</title>
@@ -264317,10 +264441,6 @@
    <value>1</value>
   </star-rating>
  </programme>
- <channel id="NickJr.hu@SD">
-  <display-name lang="hu">Nick Jr.</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003062500 +0200" channel="NickJr.hu@SD">
   <title lang="hu">Tim Rex az űrben</title>
   <title lang="en">Tim Rex in Space</title>
@@ -268844,10 +268964,6 @@
    <value>63</value>
   </star-rating>
  </programme>
- <channel id="Nickelodeon.hu@SD">
-  <display-name lang="hu">Nickelodeon</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003062000 +0200" stop="20261003064500 +0200" channel="Nickelodeon.hu@SD">
   <title lang="hu">SpongyaBob KockaNadrág</title>
   <title lang="en">SpongeBob SquarePants</title>
@@ -273124,10 +273240,6 @@
   <date>2022</date>
   <category lang="hu">Kids</category>
  </programme>
- <channel id="Nicktoons.hu@SD">
-  <display-name lang="hu">Nicktoons</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003061000 +0200" stop="20261003062000 +0200" channel="Nicktoons.hu@SD">
   <title lang="hu">SpongyaBob KockaNadrág</title>
   <title lang="en">SpongeBob SquarePants</title>
@@ -277239,10 +277351,6 @@
    <value>42</value>
   </star-rating>
  </programme>
- <channel id="OzoneTV.hu@SD">
-  <display-name lang="hu">OzoneTv</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003063000 +0200" channel="OzoneTV.hu@SD">
   <title lang="hu">Hogyan készül? Megmutatjuk!</title>
   <sub-title lang="hu">Közlekedési tábla</sub-title>
@@ -279541,10 +279649,6 @@
    <value>27</value>
   </star-rating>
  </programme>
- <channel id="Prime.hu@SD">
-  <display-name lang="hu">Prime</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003064000 +0200" stop="20261003073500 +0200" channel="Prime.hu@SD">
   <title lang="hu">Hawaii Five-0</title>
   <title lang="en">Hawaii Five-0 III.</title>
@@ -281174,10 +281278,6 @@
    <value>215</value>
   </star-rating>
  </programme>
- <channel id="RTL.hu@SD">
-  <display-name lang="hu">RTL</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003050000 +0200" stop="20261003053000 +0200" channel="RTL.hu@SD">
   <title lang="hu">Nevess csak!</title>
   <title lang="en">Just for Laughs Gags</title>
@@ -282816,10 +282916,6 @@
    <value>144</value>
   </star-rating>
  </programme>
- <channel id="RTLGold.hu@SD">
-  <display-name lang="hu">RTL GOLD</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003065000 +0200" stop="20261003075000 +0200" channel="RTLGold.hu@SD">
   <title lang="hu">Az örökség ára</title>
   <title lang="en">Emanet 1; Legacy 1</title>
@@ -284371,10 +284467,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="RTLHarom.hu@SD">
-  <display-name lang="hu">RTL HÁROM</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003063000 +0200" stop="20261003083000 +0200" channel="RTLHarom.hu@SD">
   <title lang="hu">A tigris ébredése</title>
   <title lang="en">The Tiger Rising</title>
@@ -285146,10 +285238,6 @@
    <value>5</value>
   </star-rating>
  </programme>
- <channel id="RTLKetto.hu@SD">
-  <display-name lang="hu">RTL KETTŐ</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003040000 +0200" stop="20261003043000 +0200" channel="RTLKetto.hu@SD">
   <title lang="hu">Amerikai fater</title>
   <title lang="en">American Dad!</title>
@@ -288667,10 +288755,6 @@
    <value>377</value>
   </star-rating>
  </programme>
- <channel id="RTLOtthon.hu@SD">
-  <display-name lang="hu">RTL OTTHON</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003050000 +0200" stop="20261003064500 +0200" channel="RTLOtthon.hu@SD">
   <title lang="hu">A Konyhafőnök</title>
   <title lang="en">A Konyhafőnök 11.</title>
@@ -289951,10 +290035,6 @@
    <value>12</value>
   </star-rating>
  </programme>
- <channel id="SlagerTV.hu@SD">
-  <display-name lang="hu">Sláger TV</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003040000 +0200" stop="20261003050000 +0200" channel="SlagerTV.hu@SD">
   <title lang="hu">Retro TV-A legjobb retro zenék</title>
   <rating>
@@ -290813,10 +290893,6 @@
    <value>5</value>
   </star-rating>
  </programme>
- <channel id="SorozatPlus.hu@SD">
-  <display-name lang="hu">Sorozat+</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="SorozatPlus.hu@SD">
   <title lang="hu">Medicopter 117 - A légimentők</title>
   <title lang="en">Medicopter 117</title>
@@ -292495,10 +292571,6 @@
    <value>48</value>
   </star-rating>
  </programme>
- <channel id="Sorozatklub.hu@SD">
-  <display-name lang="hu">SorozatKlub</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003050000 +0200" stop="20261003061500 +0200" channel="Sorozatklub.hu@SD">
   <title lang="hu">Szerelmek Saint Tropez-ban</title>
   <title lang="en">Sous le soleil; Saint-Tropez; Saint Tropez</title>
@@ -294099,10 +294171,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="Spektrum.hu@SD">
-  <display-name lang="hu">Spektrum</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070500 +0200" channel="Spektrum.hu@SD">
   <title lang="hu">Afrika a magasból</title>
   <title lang="en">Africa From Above</title>
@@ -295490,10 +295558,6 @@
    <value>16</value>
   </rating>
  </programme>
- <channel id="SpektrumHome.hu@SD">
-  <display-name lang="hu">Spektrum Home</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003065500 +0200" channel="SpektrumHome.hu@SD">
   <title lang="hu">Venni vagy nem venni</title>
   <title lang="en">Buying And Selling</title>
@@ -296669,10 +296733,6 @@
   <icon src="https://www.tvmustra.hu/th_kepek/cd37ef9744c7d98bbe0b0bce25b71280/77c0ade29ef33c9298b17539c5e9ee12.jpg" />
   <episode-num system="onscreen">S1 E9</episode-num>
  </programme>
- <channel id="Sport1.hu@SD">
-  <display-name lang="hu">Sport1</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="Sport1.hu@SD">
   <title lang="hu">Ökölvívás</title>
   <sub-title lang="hu">Tony Pep vs Floyd Mayweather Jr, ism., HD</sub-title>
@@ -297140,10 +297200,6 @@
    <value>3</value>
   </star-rating>
  </programme>
- <channel id="Sport2.hu@SD">
-  <display-name lang="hu">Sport2</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="Sport2.hu@SD">
   <title lang="hu">ONE</title>
   <sub-title lang="hu">Shamil Erdogan - Paul Elliott, One Fight Night 48, Bangkok, premier, élő, HD</sub-title>
@@ -297531,10 +297587,6 @@
    <value>87</value>
   </star-rating>
  </programme>
- <channel id="Story4.hu@SD">
-  <display-name lang="hu">Story4</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060500 +0200" stop="20261003075500 +0200" channel="Story4.hu@SD">
   <title lang="hu">Álom és szerelem: Rosamunde Pilcher - Öreg szív nem vén szív</title>
   <title lang="en">Rosamunde Pilcher: Alte Herzen rosten nicht</title>
@@ -298486,10 +298538,6 @@
   <date>2018</date>
   <icon src="https://www.tvmustra.hu/th_kepek/6b2d7027ac419130facae988f41c8cce/63a762632a1cd68c3e40bbccc709f0e2.jpg" />
  </programme>
- <channel id="SuperTV2.hu@SD">
-  <display-name lang="hu">Super TV2</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003053000 +0200" stop="20261003071500 +0200" channel="SuperTV2.hu@SD">
   <title lang="hu">Scooby-Doo 2: Szörnyek póráz nélkül</title>
   <title lang="en">Scooby-Doo 2: Monsters Unleashed</title>
@@ -299563,14 +299611,6 @@
    <value>18</value>
   </star-rating>
  </programme>
- <channel id="TelePaks.hu@SD">
-  <display-name lang="hu">Telepaks</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
- <channel id="TV2.hu@SD">
-  <display-name lang="hu">TV2</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003061000 +0200" stop="20261003064000 +0200" channel="TV2.hu@SD">
   <title lang="hu">Hupikék törpikék</title>
   <title lang="en">Smurfs, The</title>
@@ -301152,10 +301192,6 @@
    <value>9</value>
   </star-rating>
  </programme>
- <channel id="TV2Comedy.hu@SD">
-  <display-name lang="hu">TV2 Comedy</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003061500 +0200" stop="20261003064000 +0200" channel="TV2Comedy.hu@SD">
   <title lang="hu">Modern család</title>
   <title lang="en">Modern Family XI.</title>
@@ -303860,10 +303896,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="TV2Kids.hu@SD">
-  <display-name lang="hu">TV2 Kids</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003060500 +0200" channel="TV2Kids.hu@SD">
   <title lang="hu">Magyar népmesék</title>
   <title lang="en">Magyar népmesék I.</title>
@@ -308661,10 +308693,6 @@
    <value>646</value>
   </star-rating>
  </programme>
- <channel id="TV2Sef.hu@SD">
-  <display-name lang="hu">TV2 Séf</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003062000 +0200" stop="20261003065000 +0200" channel="TV2Sef.hu@SD">
   <title lang="hu">Anna Olson alkalmi süteményei</title>
   <title lang="en">Anna's Occasions</title>
@@ -310140,10 +310168,6 @@
    <value>83</value>
   </star-rating>
  </programme>
- <channel id="TV4.hu@SD">
-  <display-name lang="hu">TV4</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003063000 +0200" stop="20261003085500 +0200" channel="TV4.hu@SD">
   <title lang="hu">Zorro álarca</title>
   <title lang="en">The Mask of Zorro</title>
@@ -311207,10 +311231,6 @@
    <value>1</value>
   </star-rating>
  </programme>
- <channel id="Viasat2.hu@SD">
-  <display-name lang="hu">Viasat 2</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003063500 +0200" stop="20261003072000 +0200" channel="Viasat2.hu@SD">
   <title lang="hu">Gyilkos sorok</title>
   <title lang="en">Murder, She Wrote</title>
@@ -312996,10 +313016,6 @@
    <value>46</value>
   </star-rating>
  </programme>
- <channel id="Viasat3.hu@SD">
-  <display-name lang="hu">Viasat 3</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003063500 +0200" stop="20261003073000 +0200" channel="Viasat3.hu@SD">
   <title lang="hu">Szerintem a divat</title>
   <title lang="en">SZERINTEM A DIVAT I.</title>
@@ -314658,10 +314674,6 @@
    <value>47</value>
   </star-rating>
  </programme>
- <channel id="Viasat6.hu@SD">
-  <display-name lang="hu">Viasat 6</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003062500 +0200" stop="20261003065000 +0200" channel="Viasat6.hu@SD">
   <title lang="hu">Jóapátok</title>
   <title lang="en">Man with a Plan</title>
@@ -316560,10 +316572,6 @@
    <value>346</value>
   </star-rating>
  </programme>
- <channel id="Zenebutik.hu@SD">
-  <display-name lang="hu">Zenebutik</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="Zenebutik.hu@SD">
   <title lang="hu">Irigy Hónaljmirigy</title>
   <title lang="en">Irigy Hónaljmirigy 2004</title>
@@ -318573,10 +318581,6 @@
    <value>5</value>
   </star-rating>
  </programme>
- <channel id="TVPaprika.hu@SD">
-  <display-name lang="hu">TV Paprika</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003070000 +0200" channel="TVPaprika.hu@SD">
   <title lang="hu">A világ kenyerei, a kenyerek világa</title>
   <title lang="en">Breaking Bread</title>
@@ -319917,10 +319921,6 @@
    <value>12</value>
   </rating>
  </programme>
- <channel id="JimJam.hu@SD">
-  <display-name lang="hu">JimJam</display-name>
-  <url>http://www.tvmustra.hu</url>
- </channel>
  <programme start="20261003060000 +0200" stop="20261003060500 +0200" channel="JimJam.hu@SD">
   <title lang="hu">Bogyó és Babóca</title>
   <title lang="en">Berry And Dolly</title>
